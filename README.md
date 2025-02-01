@@ -1,66 +1,55 @@
-Weather App
+# Weather App<br>
 
-Introduction
+# Introduction : <br>
+The Weather App is a simple web application that provides real-time weather information based on user input. It fetches data from the Weather API and displays the current temperature and weather conditions in a user-friendly format.<br>
 
-The Weather App is a simple web application that provides real-time weather information based on user input. It fetches data from the Weather API and displays the current temperature and weather conditions in a user-friendly format.
+# Table of Contents : <br>
+• Features<br>
+• Technologies Used<br>
+• How to Use<br>
+• API Information<br>
+• Installation<br>
+• Future Enhancements<br>
+• Contact<br>
 
-Table of Contents
+# Features : <br>
+• Get real-time weather data for any location.<br>
+• Displays temperature and weather conditions dynamically.<br>
+• Shows relevant weather icons based on the condition.<br>
+• Responsive and visually appealing design.<br>
 
-• Features
-• Technologies Used
-• How to Use
-• API Information
-• Installation
-• Future Enhancements
-• Contact
+# Technologies Used : <br>
+• Frontend: HTML, CSS, JavaScript<br>
+• API Integration: Weather API (WeatherAPI.com)<br>
+• Version Control: Git and GitHub<br>
 
-Features
+How to Use : <br>
+1. Open the application in a browser.<br>
+2. Enter a location (e.g., city name) in the input field.<br>
+3. Click the "Get Weather" button.<br>
+4. View the temperature and weather condition displayed on the screen.<br>
 
-• Get real-time weather data for any location.
-• Displays temperature and weather conditions dynamically.
-• Shows relevant weather icons based on the condition.
-• Responsive and visually appealing design.
+API Information : <br>
+• The application uses WeatherAPI.com to fetch real-time weather data.<br>
+• API Endpoint: http://api.weatherapi.com/v1/current.json<br>
+• API Key is required (replace with your own key in the script.js file).<br>
 
-Technologies Used
+Installation : <br>
+1. Clone this repository:<br>
+git clone https://github.com/your-username/weather-app.git<br>
+3. Navigate to the project directory:<br>
+cd Weather-Application<br>
+5. Open index.html in a web browser.<br>
 
-• Frontend: HTML, CSS, JavaScript
-• API Integration: Weather API (WeatherAPI.com)
-• Version Control: Git and GitHub
+Future Enhancements : <br>
+• Add more weather details such as humidity, wind speed, and forecasts.<br>
+• Implement location-based weather detection.<br>
+• Improve UI/UX with animations and themes.<br>
+• Convert into a Progressive Web App (PWA) for offline access.<br>
 
-How to Use
-
-1. Open the application in a browser.
-2. Enter a location (e.g., city name) in the input field.
-3. Click the "Get Weather" button.
-4. View the temperature and weather condition displayed on the screen.
-
-API Information
-
-• The application uses WeatherAPI.com to fetch real-time weather data.
-• API Endpoint: http://api.weatherapi.com/v1/current.json
-• API Key is required (replace with your own key in the script.js file).
-
-Installation
-
-1. Clone this repository:
-git clone https://github.com/your-username/weather-app.git
-
-3. Navigate to the project directory:
-cd Weather-Application
-
-5. Open index.html in a web browser.
-
-Future Enhancements
-
-• Add more weather details such as humidity, wind speed, and forecasts.
-• Implement location-based weather detection.
-• Improve UI/UX with animations and themes.
-• Convert into a Progressive Web App (PWA) for offline access.
-
-Contact
-
-• Developer: Tushar Satpathy
-• Email: tusharsatpathy01@gmail.com
-• GitHub: TusharSatpathy
+Contact : <br>
+• Developer: Tushar Satpathy<br>
+• Email: tusharsatpathy01@gmail.com<br>
+• GitHub: TusharSatpathy<br>
 
 Thank you for using the Weather App! ☀️🌧️
