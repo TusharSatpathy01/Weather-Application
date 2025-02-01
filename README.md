@@ -52,4 +52,4 @@ cd Weather-Application<br>
 • Email: tusharsatpathy01@gmail.com<br>
 • GitHub: TusharSatpathy<br>
 
-Thank you for using the Weather App! ☀️🌧️
+# Thank you for using the Weather App! ☀️🌧️
